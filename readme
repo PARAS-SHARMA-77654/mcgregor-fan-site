@@ -1,0 +1,84 @@
+🥊 The Notorious — Conor McGregor Fan Website
+
+“Precision beats power, and timing beats speed.” — Conor McGregor
+
+A stylish, responsive fan-made website dedicated to the UFC legend Conor “The Notorious” McGregor.
+This project celebrates his journey, legacy, and impact on combat sports — built using pure HTML, CSS, and JavaScript.
+
+🔥 Features
+
+⚡ Clean & modern UI
+
+📱 Fully responsive design
+
+🧭 Smooth navigation
+
+🎨 Custom styling with CSS
+
+🧠 Interactive elements using JavaScript
+
+🌐 Social links section
+
+🥇 Branded theme inspired by McGregor’s persona
+
+🛠️ Tech Stack
+
+HTML5 — Structure
+
+CSS3 — Styling & Layout
+
+JavaScript — Interactivity
+
+📂 Project Structure
+the-notorious-mcgregor/
+│
+├── index.html       # Main webpage
+├── style.css        # Styling file
+├── script.js        # JavaScript logic
+├── README.md        # Project documentation
+
+🚀 Getting Started
+
+Clone the repo
+
+git clone https://github.com/your-username/the-notorious-mcgregor.git
+
+
+Open the project
+
+cd the-notorious-mcgregor
+
+
+Run locally
+Just open index.html in your browser.
+
+🌍 Live Demo (Optional)
+
+Coming soon on GitHub Pages
+(You can deploy it easily and add the link here)
+
+🎯 Purpose
+
+This project is:
+
+A fan tribute to Conor McGregor
+
+A frontend practice project
+
+A creative experiment in UI branding
+
+A portfolio-ready website
+
+⚠️ Disclaimer
+
+This website is a fan-made project and is not affiliated with or endorsed by Conor McGregor or the UFC.
+
+
+🧑‍💻 Author
+
+Paras Sharma
+GitHub: PARAS-SHARMA-77654
+
+🥇 License
+
+This project is open-source and free to use for learning and non-commercial purposes.
