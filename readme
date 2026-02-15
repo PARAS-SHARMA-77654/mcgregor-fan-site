@@ -1,8 +1,9 @@
+
 # 🥊 THE NOTORIOUS - Conor McGregor Tribute
 
 <div align="center">
 
-![The Notorious Banner](WhatsApp_Image_2025-12-26_at_3_06_25_PM__1_.jpeg)
+![The Notorious Banner](photos/WhatsApp_Image_2025-12-26_at_3_06_25_PM__1_.jpeg)
 
 **Conor McGregor | UFC Legend**
 
@@ -141,13 +142,14 @@ conor-mcgregor-tribute/
 │
 ├── alligator-40486-svgrepo-com.svg                    # Logo/Icon
 │
-├── WhatsApp_Image_2025-12-26_at_3_06_24_PM.jpeg       # Fight image
-├── WhatsApp_Image_2025-12-26_at_3_06_25_PM.jpeg       # Championship image
-├── WhatsApp_Image_2025-12-26_at_3_06_25_PM__1_.jpeg   # Victory pose
-├── WhatsApp_Image_2025-12-26_at_3_06_28_PM.jpeg       # Fight action
-├── WhatsApp_Image_2025-12-26_at_3_06_28_PM__1_.jpeg   # Celebration
-├── WhatsApp_Image_2025-12-27_at_10_53_09_PM.jpeg      # Notable fight 1
-└── WhatsApp_Image_2025-12-27_at_10_54_26_PM.jpeg      # Notable fight 2
+└── photos/                                             # Image assets folder
+    ├── WhatsApp_Image_2025-12-26_at_3_06_24_PM.jpeg       # Fight image
+    ├── WhatsApp_Image_2025-12-26_at_3_06_25_PM.jpeg       # Championship image
+    ├── WhatsApp_Image_2025-12-26_at_3_06_25_PM__1_.jpeg   # Victory pose
+    ├── WhatsApp_Image_2025-12-26_at_3_06_28_PM.jpeg       # Fight action
+    ├── WhatsApp_Image_2025-12-26_at_3_06_28_PM__1_.jpeg   # Celebration
+    ├── WhatsApp_Image_2025-12-27_at_10_53_09_PM.jpeg      # Notable fight 1
+    └── WhatsApp_Image_2025-12-27_at_10_54_26_PM.jpeg      # Notable fight 2
 ```
 
 ---
